@@ -21,7 +21,6 @@ The project demonstrates the complete analytical workflow, including data prepar
 ### Data Preparation
 - Data cleaning
 - Variable coding
-- Score computation
 - Dataset preparation
 
 ### Exploratory Data Analysis
