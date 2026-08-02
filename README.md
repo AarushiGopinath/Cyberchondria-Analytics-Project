@@ -16,7 +16,7 @@ The project demonstrates the complete analytical workflow, including data prepar
 - G*Power
 
 
-- ## Statistical Techniques
+## Statistical Techniques
 
 ### Data Preparation
 - Data cleaning
