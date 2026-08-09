@@ -3,7 +3,8 @@ Analytics project investigating the relationship between cyberchondria, metacogn
 
 ## Project Overview
 This repository presents statistical analysis conducted in R as part of an M.Sc. Psychology dissertation investigating the relationship between cyberchondria, metacognitive beliefs, and anxiety. 
-The project includes a literature review synthesizing empirical research on cyberchondria, metacognitive beliefs, anxiety, gender differences, and related psychological mechanisms. The review was used to establish the theoretical background, identify gaps in the existing literature, and inform the research framework.
+
+The project also includes a literature review synthesizing empirical research on cyberchondria, metacognitive beliefs, anxiety, gender differences, and related psychological mechanisms. The review was used to establish the theoretical background, identify gaps in the existing literature, and inform the research framework.
 
 
 The project demonstrates the complete analytical workflow, including data preparation, exploratory data analysis, reliability analysis, correlation, regression, regression diagnostics, mediation analysis, visualization, interpretation, and technical documentation.
