@@ -53,9 +53,7 @@ The literature review examines:
 - Regression Diagnostics
 - Mediation Analysis
 
-
-
-## Regression Diagnostics
+### Regression Diagnostics
 The regression model was evaluated using:
 - Linearity assessment
 - Variance Inflation Factor (VIF)
